@@ -1,2 +1,2 @@
-#My App Testing Git Commands
+#MyAppTestingGitCommands
 Git Commands
