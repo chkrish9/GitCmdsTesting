@@ -20,5 +20,10 @@ Git Commands
 | git remote add origin url | Url provided by github after creating the repository. To add local files to git |
 | git push -u origin master | To push to remote from local |
 | git push | Push the local changes to remote |
+| git pull | Pull from remote to local |
 | git clone url | Repository Url of which you want to clone |
 
+
+.gitignore
+==============
+Add file(relative path) to ignore files while commit 
