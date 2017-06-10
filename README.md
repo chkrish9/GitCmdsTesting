@@ -17,6 +17,8 @@ Git Commands
 | git branch branchname | To create a branch |
 | git checkout branchname | To switch to other branch |
 | git merge branchname | To merge new branch to existing branch (First switch to branch where you want to merge then use this command)(This will take to editor page where you have to enter the comments why your merging)(use i to insert the comment and :wq to save and exit the editor) |
-| git remote add origin url | Url provided by github . To add local files to git |
+| git remote add origin url | Url provided by github after creating the repository. To add local files to git |
 | git push -u origin master | To push to remote from local |
-| git push | Push the local changes to remote
+| git push | Push the local changes to remote |
+| git clone url | Repository Url of which you want to clone |
+
