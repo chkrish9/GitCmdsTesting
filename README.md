@@ -26,4 +26,4 @@ Git Commands
 
 .gitignore
 ==============
-Add file(relative path) to ignore files while commit 
+Add files(relative path of the files) to ignore files while commit 
